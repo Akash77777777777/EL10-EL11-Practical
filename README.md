@@ -70,3 +70,34 @@ This project contains Wiki documentation.
 
 - [Home](../../wiki/Home)
 - [Setup Guide](../../wiki/Setup-Guide)
+- ## Project Folder Structure
+
+```text
+EL10-EL11-Practical/
+│
+├── assets/
+│   └── README.md
+│
+├── docs/
+│   ├── index.md
+│   ├── usage.md
+│   └── faq.md
+│
+├── src/
+│   └── README.md
+│
+├── tests/
+│   └── README.md
+│
+├── CODE_OF_CONDUCT.md
+└── README.md
+```
+
+## Folder Description
+
+- **assets/** – Stores project images and resources.
+- **docs/** – Contains project documentation.
+- **src/** – Contains source code.
+- **tests/** – Contains testing documentation and scripts.
+- **README.md** – Provides an overview of the project.
+- **CODE_OF_CONDUCT.md** – Defines community guidelines.
