@@ -64,3 +64,9 @@ Please read the CODE_OF_CONDUCT.md file before contributing.
 ## Repository
 
 [Visit GitHub](https://github.com/Akash77777777777/EL10-EL11-Practical)
+## GitHub Wiki
+
+This project contains Wiki documentation.
+
+- [Home](../../wiki/Home)
+- [Setup Guide](../../wiki/Setup-Guide)
